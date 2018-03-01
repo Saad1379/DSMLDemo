@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tree:Tree xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:tree="http://www.questlab.pk/dsml/tree/0.1">
+  <root label="myroot" data="10">
+    <children label="rootChild1" data="11">
+      <children label="rootChild1's Child" data="11"/>
+    </children>
+    <children label="rootChild2" data="12"/>
+  </root>
+</tree:Tree>
